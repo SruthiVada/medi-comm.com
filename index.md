@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <!-- just general/base html code here -->
     <head>
